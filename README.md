@@ -1,34 +1,61 @@
-# sea-music
+# SEA-MUSIC
 
-An Electron application with Vue and TypeScript
+一个简单的音乐播放器，使用electron+vue3+pinia+TypeScript开发。
 
-## Recommended IDE Setup
+A simple music player developed using electron+vue3+pinia+TypeScript.
+
+## 推荐的IDE设置
+
+Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin)
 
-## Project Setup
+## 项目设置
 
-### Install
+Project Setup
 
-```bash
-$ npm install
+```
+git clone https://github.com/SEAHAISEA/sea-music.git
+
+cd sea-music
+
+npm install
 ```
 
-### Development
 
-```bash
-$ npm run dev
+## 开发
+
+Development
+
+```
+npm run dev
 ```
 
-### Build
+## 构建
 
-```bash
-# For windows
-$ npm run build:win
+Build
 
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
+- 对于Windows (For Windows)
 ```
+npm run build:win
+```
+
+- 对于macOS (For macOS)
+```
+npm run build:mac
+```
+
+- 对于Linux (For Linux)
+```
+npm run build:linux
+```
+
+## 参考
+
+References
+
+- [electron-vite](https://electron-vite.org)
+- [vue.js](https://vuejs.org)
+- [vue-router](https://router.vuejs.org)
+- [pinia](https://pinia.vuejs.org)
+- [element-plus](https://element-plus.org)
