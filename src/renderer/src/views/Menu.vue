@@ -478,6 +478,7 @@ function addSongList() {
     // setStorage, getStorage 
     (window.api as any).selectAudioFile().then(files => {
         if (files) {
+            audioStore.musicData = audioStore.musicData.slice(0, 7)
             if (Array.isArray(userSongList)) {
                 files.forEach((file) => {
                     userSongList?.push({
