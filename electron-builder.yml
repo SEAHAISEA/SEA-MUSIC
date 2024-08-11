@@ -25,6 +25,7 @@ nsis:
   allowToChangeInstallationDirectory : true
   installerIcon: build/install.ico
   uninstallerIcon: build/Uninstall.ico
+  deleteAppDataOnUninstall : true
 mac:
   entitlementsInherit: build/entitlements.mac.plist
   extendInfo:
