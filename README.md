@@ -4,6 +4,14 @@
 
 A simple music player developed using electron+vue3+pinia+TypeScript.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/9716c692-9c74-440d-b337-6c1640f9f0ce
+
+
+
+
 ## 推荐的IDE设置
 
 Recommended IDE Setup
@@ -15,13 +23,14 @@ Recommended IDE Setup
 Project Setup
 
 ```
-git clone https://github.com/SEAHAISEA/sea-music.git
-
+git clone https://github.com/SEAHAISEA/SEA-MUSIC.git
+```
+```
 cd sea-music
-
+```
+```
 npm install
 ```
-
 
 ## 开发
 
@@ -49,9 +58,11 @@ npm run build:mac
 ```
 npm run build:linux
 ```
+## 下载
+Download
+- [Releases](https://github.com/SEAHAISEA/sea-music/releases/tag/1.0.0)
 
 ## 参考
-
 References
 
 - [electron-vite](https://electron-vite.org)
