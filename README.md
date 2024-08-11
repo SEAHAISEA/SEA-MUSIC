@@ -4,6 +4,8 @@
 
 A simple music player developed using electron+vue3+pinia+TypeScript.
 
+## Have fun!🥰
+
 ## Demo
 
 
