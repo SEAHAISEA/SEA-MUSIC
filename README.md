@@ -23,7 +23,7 @@ Recommended IDE Setup
 Project Setup
 
 ```
-git clone https://github.com/SEAHAISEA/sea-music.git
+git clone https://github.com/SEAHAISEA/SEA-MUSIC.git
 
 cd sea-music
 
