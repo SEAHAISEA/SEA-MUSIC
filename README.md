@@ -24,12 +24,13 @@ Project Setup
 
 ```
 git clone https://github.com/SEAHAISEA/SEA-MUSIC.git
-
+```
+```
 cd sea-music
-
+```
+```
 npm install
 ```
-
 
 ## 开发
 
